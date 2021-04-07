@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+  {% include head.html %}
+  <body>
+    <div class="content">
+      <div class="container">
+        <h1 class="post py-4">{{ page.title }}</h1>
+        <div class="post bg-white rounded my-3 p-4 shadow">
+          <h2>
+            {% for tag in page.tags %}
+              <a href="/menschen/{{ tag | slugify }}">{{ tag }}</a>
+            {% endfor %}
+          </h2>
+
+          {{ content }}
+
+          <a href="/#{{ page.id }}" class="btn btn-secondary">Zurück zur Übersicht</a>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

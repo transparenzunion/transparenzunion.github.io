@@ -1,0 +1,18 @@
+---
+title: Hall of Fame
+layout: home
+---
+
+<div class="container">
+  <h1 class="mt-3">{{ page.title }}</h1>
+  {% for tag in site.tags %}
+    <div class="tag bg-white rounded ml-2 mb-3 p-4 shadow">
+      <h3>
+        <a href="/menschen/{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+      </h3>
+      {% for post in tag[1] %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>

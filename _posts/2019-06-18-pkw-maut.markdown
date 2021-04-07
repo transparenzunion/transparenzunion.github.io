@@ -1,0 +1,24 @@
+---
+title: "Gekippte Pkw-Maut"
+tag: Andreas Scheuer (CSU)
+image: andreas-scheuer.jpg
+image_credit: Von Fotograf Studio Weichselbaumer, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=66015351
+year: 2019
+---
+
+Als der EuGH am 18. Juni 2019 die Pkw-Maut für nicht vereinbar mit europäischem Recht erklärte, sei Bundesverkehrsminister
+Andreas Scheuer „vollkommen überrascht“ gewesen.
+Zusammen mit den bisherigen Vorbereitungskosten in Höhe von 128 Millionen Euro droht damit ein Schaden von
+knapp einer halben Milliarde Euro für den Bund.
+
+<!--more-->
+
+### Quellen
+
+[Der Deutsche Bundestag zur Pkw-Maut][bundestag] bundestag.de 28.01.2021  
+[Autobahnmaut gekippt][tagesspiegel1] tagesspiegel.de 18.06.2019  
+[Kosten der gescheiterten Pkw-Maut][tagesspiegel2] tagesspiegel.de 24.06.2019  
+
+[bundestag]: https://www.bundestag.de/dokumente/textarchiv/2021/kw04-pa-2untersuchungsausschuss-818404
+[tagesspiegel1]: https://www.tagesspiegel.de/politik/nach-urteil-des-eugh-verkehrsminister-scheuer-erklaert-pkw-maut-fuer-gescheitert/24467106.html
+[tagesspiegel2]: https://www.tagesspiegel.de/politik/nach-eugh-urteil-scheitern-der-pkw-maut-kommt-bund-teuer-zu-stehen/24487616.html
