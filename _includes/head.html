@@ -1,11 +1,25 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  <meta name="description" lang="en" content="Unions Deals"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
+  {% assign description = page.excerpt | strip_html | truncate: 200 | default: page.description %}
+  <meta name="description" content="{{ description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta charset="utf-8"/>
+  {% assign title = page.title | append: '$' | append: page.tags[0] | split: '$' | compact | join: ' - ' %}
+  <title>{{ title }}</title>
   <link rel="stylesheet" type="text/css" href="/assets/css/default.css"/>
   <link rel="icon" type="image/png" href="/assets/images/icon.png" />
 
   <script async defer data-domain="clankriminalitaet.de" src="https://plausible.io/js/plausible.js"></script>
+
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:type" content="article" />
+  {% if page.image %}
+    <meta property="og:image" content="/assets/images/{{page.image}}" />
+  {% else %}
+    <meta property="og:image" content="/assets/images/preview.png" />
+  {% endif %}
+
+  <meta property="og:description" content="{{ description }}" />
+
 </head>
 
