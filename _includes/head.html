@@ -1,6 +1,6 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-  {% assign description = page.excerpt | strip_html | truncate: 200 | default: page.description %}
+  {% assign description = page.excerpt | strip_html | truncate: 190 | default: page.description %}
   <meta name="description" content="{{ description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta charset="utf-8"/>
@@ -12,25 +12,25 @@
   <script async defer data-domain="clankriminalitaet.de" src="https://plausible.io/js/plausible.js"></script>
 
   <meta property="og:title" content="{{ title }}" />
-  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:title" content="{{ title }}" />
 
   <meta property="og:type" content="website" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="clankriminalitaet.de">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:domain" content="clankriminalitaet.de" />
 
-  <meta property="og:url" content="https://www.clankriminalitaet.de{{ page.url }}">
-  <meta property="twitter:url" content="https://www.clankriminalitaet.de{{ page.url }}">
+  <meta property="og:url" content="https://www.clankriminalitaet.de{{ page.url }}" />
+  <meta name="twitter:url" content="https://www.clankriminalitaet.de{{ page.url }}" />
 
   {% if page.image %}
     <meta property="og:image" content="https://www.clankriminalitaet.de/assets/images/{{page.image}}" />
-    <meta name="twitter:image" content="https://www.clankriminalitaet.de/assets/images/{{page.image}}">
+    <meta name="twitter:image" content="https://www.clankriminalitaet.de/assets/images/{{page.image}}" />
   {% else %}
     <meta property="og:image" content="https://www.clankriminalitaet.de/assets/images/preview.png" />
-    <meta name="twitter:image" content="https://www.clankriminalitaet.de/assets/images/preview.png">
+    <meta name="twitter:image" content="https://www.clankriminalitaet.de/assets/images/preview.png" />
   {% endif %}
 
   <meta property="og:description" content="{{ description }}" />
-  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:description" content="{{ description }}" />
 
 </head>
 
