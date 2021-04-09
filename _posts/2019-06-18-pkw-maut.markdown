@@ -2,7 +2,7 @@
 title: "Gekippte Pkw-Maut"
 tag: Andreas Scheuer (CSU)
 image: andreas-scheuer.jpg
-image_credit: Von Fotograf Studio Weichselbaumer, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=66015351
+image_credit: Fotograf Studio Weichselbaumer, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=66015351
 year: 2019
 ---
 
