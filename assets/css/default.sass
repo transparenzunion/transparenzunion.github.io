@@ -1,9 +1,13 @@
 ---
 ---
 
-$primary: #4cb4e7
-$secondary: #e6007e
+$blue: #4cb4e7
+$pink: #e6007e
 $red: #39991f
+$yellow: #ffed00
+
+$primary: $blue
+$secondary: $yellow
 
 @import 'bootstrap/bootstrap'
 
@@ -12,7 +16,7 @@ html
 
 body
   background: #39991f
-  background: linear-gradient(to right, $primary, $secondary)
+  background: linear-gradient(to right, $blue, $pink)
   min-height: 100vh
   display: flex
   flex-direction: column
@@ -21,8 +25,8 @@ div.content
   flex: 1
 
 footer
-  background: $secondary
-  color: white
+  background: $yellow
+  color: $black
 
   ul
     list-style-type: none
@@ -34,7 +38,7 @@ footer
 
       &.btn-link
         a
-          color: white
+          color: $black
       &.btn-light
         a
           color: $black
