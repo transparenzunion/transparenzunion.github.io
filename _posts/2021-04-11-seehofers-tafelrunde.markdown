@@ -1,6 +1,6 @@
 ---
 title: "Seehofers Spendenrunde"
-tag: Horst Seehofer (CSU)
+tags: [Horst Seehofer (CSU), Alfred Sauter (CSU)]
 image: horst-seehofer.jpg
 image_credit: Olaf Kosinsky - Eigenes Werk, CC BY-SA 3.0 de, https://commons.wikimedia.org/w/index.php?curid=75273076
 year: 2021
