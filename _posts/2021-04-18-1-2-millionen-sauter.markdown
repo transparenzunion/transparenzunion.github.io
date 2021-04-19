@@ -7,8 +7,11 @@ year: 2021
 ---
 
 Gegen Alfred Sauter (CSU) hat das Oberlandesgericht (OLG) München einen Vermögensarrest in Höhe von ca. 1,2 Millionen Euro verfügt. Die Justiz hat Vermögen
-bei Sauter in dieser Höhe inziwschen auch sichergestellt. So soll verhindert werden, dass Sauters Geschäfte mit Corona-Masken am Ende zu Lasten des Staats
+bei Sauter in dieser Höhe inzwischen auch sichergestellt. So soll verhindert werden, dass Sauters Geschäfte mit Corona-Masken am Ende zu Lasten des Staats
 oder der Steuerzahler:innen gehen.
+
+Sauter war beteiligt an Geschäften mit Maskenlieferungen, die von einer Firma aus Hessen an deutsche Ministerien vermittelt wurden. Die 1,2 Millionen Euro
+sind der Anteil, den Sauter als Vermittler und Anwalt bekommen haben soll.
 
 Sauter ist ein einflussreicher CSU-Politiker, der über zehn Jahre Kabinettsmitglied in Bayern war, der im Bundestag saß und über dreißig Jahre im bayerischen Landtag,
 der bis vor kurzem auch dem CSU-Vorstand angehörte und viele weitere Ämter in der Partei innehatte.
