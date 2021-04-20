@@ -3,7 +3,7 @@ title:  "Über 11 Millionen Euro für Gauweiler"
 tag: Peter Gauweiler (CSU)
 image: peter-gauweiler.jpg
 image_credit: Henning Schacht, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=21748601
-year: 2015
+year: 2012
 ---
 
 In den Jahren zwischen 2008 und 2015 soll Peter Gauweiler (CSU) als Rechtsanwalt Honorare in Höhe von mehr als elf Millionen Euro beim
