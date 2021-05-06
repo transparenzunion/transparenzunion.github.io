@@ -1,5 +1,5 @@
 ---
-title: "Nach Hackerangriff: Rücktritt vom Sprecheramt und Verzicht auf Kandidatur"
+title: 'Nach "Hackerangriff": Rücktritt vom Sprecheramt und Verzicht auf Kandidatur'
 tag: Joachim Pfeiffer (CDU)
 image: joachim-pfeiffer.jpg
 image_credit: Tom Bilger - dogma.info, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61169629
