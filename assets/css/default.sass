@@ -17,14 +17,17 @@ html
 body
   background: #39991f
   background: linear-gradient(to right, $blue, $pink)
-  min-height: 100vh
-  display: flex
-  flex-direction: column
 
 div.content
-  flex: 1
+  padding-bottom: 9rem
+  @include media-breakpoint-up(md)
+    padding-bottom: 5rem
 
 footer
+  position: fixed
+  bottom: 0
+  width: 100%
+  z-index: 1000
   background: $yellow
   color: $black
 
