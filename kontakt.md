@@ -9,7 +9,7 @@ Wir freuen uns über Rückmeldungen und sachdienliche Hinweise!
 
 [Feedback einreichen!](https://github.com/transparenzunion/transparenzunion.github.io/issues/new?assignees=&labels=&template=besucherinnen-feedback.md&title=Feedback)
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:
 
 Nathan Mattes  
 Georg-Blank-Straße 12  
