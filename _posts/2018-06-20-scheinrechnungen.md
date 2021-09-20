@@ -3,7 +3,7 @@ title: "Stückelung, Strohmannsystem, Scheinrechnungen"
 tag: Franz Rieger (CSU)
 image: franz-rieger.jpg
 image_credit: Leonie Rabea Große, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Franz_Rieger_Landtagsprojekt_Bayern_2012.JPG
-year: 2013
+year: 2018
 ---
 
 Der Landtagsabgeordnete Dr. Franz Rieger (CSU) und sein Wahlkampfmanager Peter Kittel müssen sich vor Gericht verantworten.
