@@ -17,7 +17,7 @@ Einkünfte in Höhe von mindestens 639.000 EUR erhalten. Und diese sind erst jet
 Einkünfte nicht korrekt auf der Webseite des Bundestags veröffentlicht, obwohl diese spätestens drei Monate nach Zufluss beim Bundestagspräsident
 angezeigt werden müssen.
 
-Auf Nachfrage von Abgeordnetenwatch bleibt kuffer eine konkrete Antwort schuldig und verweist nur auf die Bundestagsverwaltung, welche für
+Auf Nachfrage von Abgeordnetenwatch bleibt Kuffer eine konkrete Antwort schuldig und verweist nur auf die Bundestagsverwaltung, welche für
 die Einhaltung der Transparenzpflichten zuständig sei.
 
 <!--more-->

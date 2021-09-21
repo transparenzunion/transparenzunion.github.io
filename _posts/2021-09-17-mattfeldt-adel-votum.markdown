@@ -28,6 +28,9 @@ Prinzeninsel-Antrag aus Plön war er direkt als Berichterstatter zuständig. Obw
 mittelbarer Nutznießer des Steuergeldes und damit befangen war, findet sich dazu nichts im Protokoll der Ausschusssitzung. Mattfeldt sieht
 kein Problem: "Da es hier in keiner Weise auch nur irgendeinen Interessenkonflikt gab, ist ein Anzeigen in keiner Weise erforderlich gewesen".
 
+<!--more-->
+
+### Quellen
 
 [Der CDU-Politiker, sein adliger Freund und das 249.000 Euro-Votum][spon1] spiegel.de 17.9.2021  
 [Der Bierfreund des Prinzen von Preußen][spon2] spiegel.de 23.8.2021  
