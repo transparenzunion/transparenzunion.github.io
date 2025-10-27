@@ -3,8 +3,8 @@ title: Über dieses Projekt
 ---
 
 Das Projekt Clankriminalität sammelt und kuratiert Korruptionsfälle und deren Verdachtsfälle
-sowie Fälle von Lobbyismus und Verquickung von Mandat und persönlichen Interessen von CDU und
-CSU PolitikerInnen, der so genannten Union. Die Union schafft es immer wieder, Vergessen zu produzieren.
+sowie Fälle von Lobbyismus und Verquickung von Mandat und persönlichen Interessen von CDU- und
+CSU-PolitikerInnen, der so genannten Union. Die Union schafft es immer wieder, Vergessen zu produzieren.
 Wir sind ein Kollektiv, das diesem Vergessen entgegenwirken will. Deshalb haben wir uns
 zusammengeschlossen, um diese Webseite zu betreiben.
 
